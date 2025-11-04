@@ -81,3 +81,6 @@ The frontend will be available at `http://localhost:3000`
 3. Enter a task title in the input field
 4. Click "Add task" to create a new task
 5. Click "Delete" on any task to remove it
+
+Video presentation:
+    -   https://www.loom.com/share/a99c4f7c4d244d6db092db3b8364ee68
